@@ -8,7 +8,7 @@ public class Predator implements Steppable{
 	int breedCounter = 0;
 	int starvationCounter = 0;
 	boolean isHungry;
-	
+	//save pawikans // 
 	public Stoppable stopper = null;
 	
 	/* A predator first tries to eat by inspecting the horizontally or vertically adjacent cells for prey and if it finds 
